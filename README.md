@@ -2,7 +2,7 @@
 
 An interactive Windows XP desktop simulator & pay-to-rank advertising platform by [Lê Anh Ngọc](https://github.com/ngocla99).
 
-Live Demo: [window-bid.vercel.app](https://window-bid.vercel.app)
+Live Demo: [xpbid.lol](https://xpbid.lol/)
 
 <p align="center">
   <img width="1200" alt="WindowBid XP Desktop Interface" src="./assets/windowbid-desktop.png" />
